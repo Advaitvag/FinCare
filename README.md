@@ -24,9 +24,14 @@ To get started with FinCare, simply visit the FinCare Website and follow the ins
 
 # Technologies Used
 AI/ML: Used to predict eviction risks based on user data, providing accurate and actionable insights.
+
 Web Platform: FinCare is built to be an online platform, ensuring it is accessible to renters everywhere.
+
 Partner APIs: FinCare collaborates with organizations to integrate external resources for support and assistance.
 Future Enhancements
+
 Expanded AI Model: We plan to continuously improve the AI model by incorporating more data sources and refining its predictions.
+
 Mobile Accessibility: In the future, FinCare will be available as a mobile app, allowing renters to access the service on the go.
+
 Additional Partnerships: We aim to collaborate with more organizations to increase the availability of resources for renters at risk of eviction.
