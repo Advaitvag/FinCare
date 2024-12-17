@@ -1,4 +1,4 @@
-
+Teammates: Advait Vagerwal and Sahil Thakare
 # FinCare: Housing Stabilization Solution
 Guiding Families Towards Stability​
 FinCare is a comprehensive service designed to empower renters by providing insight into their financial standing and determining if they are at risk for eviction. Through a combination of user-friendly interfaces and AI-powered analysis, FinCare offers vital resources to help at-risk individuals stabilize their housing situation.
